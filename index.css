@@ -1,0 +1,23 @@
+.blurImage {
+    background-image: url("images/login.jpg");
+    filter: blur(7px);
+    -webkit-filter: blur(7px);
+    background-size:100%;
+    height: 100%;
+}
+
+
+
+.front {
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+

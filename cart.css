@@ -1,0 +1,29 @@
+.cartItemPhoto {
+	float: left;
+	width: 100px;
+	height: 100%;
+	background-size: 100%;
+	background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.cartItemPrice {
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 2%;
+	text-align: center;
+}
+
+.cartItem {
+	border: 2px solid red;
+	width: 40%;
+	margin: 0 auto;
+	height: 100px;
+}
+
+#total {
+	text-align: center;
+	width: 10%;
+	margin: 0 auto;
+}

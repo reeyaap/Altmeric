@@ -1,0 +1,28 @@
+#art {
+	width: 600px;
+	height: 500px;
+	background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-left: 10%;
+    float: left;
+}
+
+#side {
+	width: 10%;
+	float: left;
+	height: 100%;
+}
+
+#properties {
+	float: left;
+	margin-left: 10%;
+	width: 30%
+}
+
+#shoppingButton {
+	margin: 0 auto;
+	align-content: center;
+	align-items: center;
+	margin-left: 30%;
+}

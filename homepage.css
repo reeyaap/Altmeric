@@ -1,0 +1,41 @@
+.painting {
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:200px;
+    width:200px;
+}
+
+.cell {
+    margin: 30px;
+}
+
+#container {
+    width: 0;
+
+}
+
+table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.artName {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+
+.buyButton {
+    width: 100%;
+    height: 20%;
+}
+
+#searchIcon {
+    height: 34px;
+}
+
+body {
+    background-color: #FFFFE0;
+}
